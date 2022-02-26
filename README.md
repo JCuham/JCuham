@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @JCuham
-- 👀 I’m interested in: Software Engineering, Blockchain and Cybersecurity.
-- 🌱 I’m currently learning:<br> 
+<h1>👋 Hi, I’m @JCuham</h1><br>
+👀 I’m interested in:<br> Software Engineering, Blockchain and Cybersecurity.<br><br>
+🌱 I’m currently learning:<br> 
            - HTML/CSS/JS/PHP/SQL <br>
            - Java (Multithreading and Sockets)<br>
            - C#<br>
-           - Solidity
-- 📫 How to reach me: jamesa.cunningham@outlook.com
+           - Solidity<br><br>
+📫 How to reach me:<br> jamesa.cunningham@outlook.com
 
 <!---
 JCuham/JCuham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
