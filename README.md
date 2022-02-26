@@ -4,6 +4,7 @@
            - HTML/CSS/JS/PHP/SQL <br>
            - Java (Multithreading and Sockets)<br>
            - C#<br>
+           - Rust<br>
            - Solidity<br><br>
 📫 How to reach me:<br> jamesa.cunningham@outlook.com
 
