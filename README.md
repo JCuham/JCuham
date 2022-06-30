@@ -1,9 +1,50 @@
-<h1>👋 Hi, I’m @JCuham</h1><br>
+<h1 align="center">👋 Hi, I’m @JCuham</h1>
+<h2 align="center"><img height="111" width="368 src="https://user-images.githubusercontent.com/58760187/176594698-89bac313-d842-4539-8533-c37ed5fc9968.gif></h2>
+
+
 👀 I’m interested in:<br> Software Engineering, Operating Systems and Cybersecurity <br><br>
 🌱 I’m currently learning:<br> 
-           - JS/PHP/SQL <br>
-           - C#<br>
+           - mySQL/Python <br>
+           
+ <h3 align="center">Contact Me</h3>
+ <div align="center">
+ 
+ [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/JCuham)
+ [![image](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:jamesa.cunningham@outlook.com)
+</div>
 
+<h3 align="center">Languages and Tools:</h3>
+
+<p align="center">
+<a href="https://en.wikipedia.org/wiki/HTML5">
+           <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/CSS">
+           <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/JavaScript">
+           <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/PHP">
+           <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+           <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/C++">
+           <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+           <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+</a>
+
+</p>
 
 <!---
 JCuham/JCuham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
