@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m @JCuham</h1>
-<h2 align="center"><img src="https://github.com/JCuham/JCuham/blob/main/Raiden%2011.gif"></h2>
+<h2 align="center"><img src="https://github.com/JCuham/JCuham/blob/main/output.gif"></h2>
 
 
 👀 I’m interested in:<br> Software Engineering, Operating Systems and Cybersecurity <br><br>
