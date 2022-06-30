@@ -3,7 +3,7 @@
 🌱 I’m currently learning:<br> 
            - JS/PHP/SQL <br>
            - C#<br>
-📫 How to reach me:<br> jamesa.cunningham@outlook.com
+
 
 <!---
 JCuham/JCuham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
