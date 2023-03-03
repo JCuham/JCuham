@@ -2,10 +2,11 @@
 <h2 align="center"><img src="https://github.com/JCuham/JCuham/blob/main/output.gif"></h2>
 
 
-👀 I’m interested in:<br> Software Engineering, Operating Systems and Cybersecurity <br><br>
+👀 I’m interested in:<br> Software Engineering, Network Programming, Operating Systems and Cybersecurity <br><br>
 🌱 I’m currently learning:<br> 
-           - mySQL/Python <br>
-           
+           - Oracle SQL <br>
+           - Network Programming (Using C++ to build a simple FTP Server/Client) <br>
+           - Functional Programming in Common Lisp <br>
  <h3 align="center">Contact Me</h3>
  <div align="center">
  
