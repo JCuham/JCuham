@@ -5,7 +5,7 @@
 👀 I’m interested in:<br> Software Engineering, Network Programming, Operating Systems and Cybersecurity <br><br>
 🌱 I’m currently learning:<br> 
            - Oracle SQL <br>
-           - Network Programming (Using C++ to build a simple FTP Server/Client) <br>
+           - Network Programming (Using C++ and Linux System Libraries to build a simple FTP Server/Client) <br>
            - Functional Programming in Common Lisp <br>
  <h3 align="center">Contact Me</h3>
  <div align="center">
